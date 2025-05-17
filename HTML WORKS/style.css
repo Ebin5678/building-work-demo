@@ -1,0 +1,99 @@
+.carousel-item>img {
+    height: 350px;
+}
+
+.carousel-item {
+    font-size: 25px;
+}
+
+.col-one {
+    padding-top: 50px;
+    text-align: justify;
+
+}
+
+.col-two {
+    padding-top: 50px;
+    text-align: justify;
+
+
+
+}
+
+.col-three {
+    padding-top: 20px;
+
+}
+
+.image-item img {
+    height: 24%;
+}
+
+.elementor-button-wrapper {
+    padding-top: 20px;
+}
+
+.image-section {
+    height: 10px;
+}
+
+.card-img-overlay {
+    height: 100%;
+    width: 100%;
+    top: 0;
+    left: 0;
+    position: absolute;
+}
+
+.card-img {
+    height: 360px;
+}
+
+.elementor-widget-container1 {
+    text-align: center;
+    color: black;
+    padding-top: 50px;
+
+
+}
+
+.elementor-widget-container2 {
+    text-align: center;
+    color: black;
+}
+
+.elementor-widget-wrap {
+    position: relative;
+    width: 100%;
+    flex-wrap: wrap;
+    align-content: flex-start;
+}
+
+.card-text{
+     text-align: center;
+    color: black;
+    padding-top: 50px;
+    font-size: larger;
+
+}
+
+.card-title{
+     text-align: center;
+    color: black;
+    padding-top: 20px;
+    font-size: larger;
+
+}
+
+.elementor-widget-container{
+    padding: 15px;
+}
+
+
+.elementor-widget-container{
+    font-family: sans-serif;
+    
+}
+
+
+
